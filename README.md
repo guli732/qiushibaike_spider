@@ -6,9 +6,9 @@
 - `author`：作者
 - `content`：内容
 ## 爬取过程展示
-![image](https://github.com/guli732/Tencent_applet_tutorial_spider/blob/master/img/tencent_app_spider.png)
+![image](https://github.com/guli732/qiushibaike_spider/blob/master/img/qiushibaike_spider.png)
 ## json结果展示
-![image](https://github.com/guli732/Tencent_applet_tutorial_spider/blob/master/img/tencent_app_spider.png)
+![image](https://github.com/guli732/qiushibaike_spider/blob/master/img/qiushibaike_spider_result.png)
 ## 使用方法
 1. 下载该项目
 2. 安装scrapy库`pip3 install scrapy`
